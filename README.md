@@ -1,5 +1,4 @@
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/u_of_minnesota-1/standard.png?1548463673))
-https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/u_of_minnesota-1/standard.png?1548463673
+(https://upload.wikimedia.org/wikipedia/commons/c/c6/University_of_Minnesota.svg)
 # Data-science-Courses
 
 ## CSCI 5523 - Introduction to Data Mining
