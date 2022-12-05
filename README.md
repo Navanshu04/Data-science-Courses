@@ -13,3 +13,6 @@ parsing, semantic analysis, machine translation, dialogue systems, and statistic
 ## CSCI 5707 Principles of Database Systems
 Concepts, database architecture, alternative conceptual data models, foundations of data manipulation/analysis, logical data models, database designs, models of database security/integrity, current trends.
 
+## MSBA 6441 - Causal Inference via Econometrics and Experimentation
+
+Controlled experiments in business settings, experiment design, A/B testing. Specialized statistical methodologies. Fundamentals of econometrics, instrument variable regression, propensity score matching
