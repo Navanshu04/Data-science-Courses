@@ -1,5 +1,5 @@
-![This is an image]([https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/DataScience_sq_0.png?itok=FVTdOEYa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbootcamp.umn.edu%2Fdata%2F&psig=AOvVaw1_8ACeYRxZeyj_0wE467Vl&ust=1670299163991000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCA0LTL4fsCFQAAAAAdAAAAABAI)
-
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/u_of_minnesota-1/standard.png?1548463673))
+https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/u_of_minnesota-1/standard.png?1548463673
 # Data-science-Courses
 
 ## CSCI 5523 - Introduction to Data Mining
