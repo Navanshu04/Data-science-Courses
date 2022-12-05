@@ -5,10 +5,11 @@
 Master of Data Science from University of minnesota is one of the best courses  that offers in-depth learning in a Data Science and Business Intelligence and has consistently made its place among the top global universities. It is a regular, two-year (31 credits) master's program integrates a strong foundation in big data and analysis.
   
  <br> 
- 
+<br>
 [Data science program info][GitHub Pages](https://cse.umn.edu/datascience).
-[Why is it best? :](https://cse.umn.edu/datascience/news/university-minnesota-data-science-ms-program-ranked-third-nation).
-
+<br>
+[Why is it best?](https://cse.umn.edu/datascience/news/university-minnesota-data-science-ms-program-ranked-third-nation)
+<br>
 # Data-science-Courses
 
 ## CSCI 5523 - Introduction to Data Mining
