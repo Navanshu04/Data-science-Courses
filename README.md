@@ -1,4 +1,4 @@
-![University of Minnesota](https://upload.wikimedia.org/wikipedia/commons/c/c6/University_of_Minnesota.svg)
+![University of Minnesota](https://ddfoqzqsu0zvp.cloudfront.net/media/documents/umn_minnesota_logo_-_Jackie_Silva_1.png)
 # Data-science-Courses
 
 ## CSCI 5523 - Introduction to Data Mining
