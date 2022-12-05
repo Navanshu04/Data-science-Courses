@@ -1,4 +1,4 @@
-(https://upload.wikimedia.org/wikipedia/commons/c/c6/University_of_Minnesota.svg)
+![University of Minnesota](https://upload.wikimedia.org/wikipedia/commons/c/c6/University_of_Minnesota.svg)
 # Data-science-Courses
 
 ## CSCI 5523 - Introduction to Data Mining
