@@ -1,3 +1,5 @@
+![This is an image](https://cse.umn.edu/sites/cse.umn.edu/files/styles/folwell_full/public/DataScience_sq_0.png?itok=FVTdOEYa)
+
 # Data-science-Courses
 
 ## CSCI 5523 - Introduction to Data Mining
